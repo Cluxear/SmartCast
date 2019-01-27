@@ -26,6 +26,7 @@
 <h4 align=center>
 To quote JFK: 
 </h4>
+
 >> We are not doing these things because they are easy,
 >> but because they are hard; 
 
