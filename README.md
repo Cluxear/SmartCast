@@ -7,12 +7,14 @@
 
 ***
 
-[link to Trello private group](https://trello.com/fearless48)
-<
-As JFK said: 
+[Link to The Trello Private Group](https://trello.com/fearless48) 
 
->> We are doing this, and doing other things,
->> not because they are easy, but because they are hard; 
+***
+<h4>
+As JFK said: 
+</h4>
+>> We are not doing these things,
+>> but because they are hard; 
 
 
 
