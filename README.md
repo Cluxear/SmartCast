@@ -23,13 +23,13 @@
 ***
 
 <h4>
-As JFK said: 
+To quote JFK: 
 </h4>
-
+</div>
 >> We are not doing these things, because they are easy
 >> but because they are hard; 
 
-</div>
+
 
 
 
