@@ -2,6 +2,6 @@
   <img src="https://i.imgur.com/3ZQGxXa.jpg">
 
 
-<p align="center"> 
+<div align="center"> 
 #### Looking at Freelancing from a different perspective... 
-</p>
+</div>
