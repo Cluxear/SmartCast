@@ -6,13 +6,17 @@
 </div>
 
 ***
+<div align="center">
 
 [Link to The Trello Private Group](https://trello.com/fearless48) 
+</div>
 
 ***
+
 <h4>
 As JFK said: 
 </h4>
+
 >> We are not doing these things,
 >> but because they are hard; 
 
