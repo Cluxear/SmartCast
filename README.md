@@ -16,7 +16,7 @@
 
 [Link to JFoenix](https://github.com/jfoenixadmin/JFoenix) ( java lib, implementant Google Material Design : check it)
 
-[Link to JavaFX Third Party] (https://www.oracle.com/technetwork/java/javafx/community/3rd-party-1844355.html) ( des extension pour javafx )
+[Link to JavaFX Third Party](https://www.oracle.com/technetwork/java/javafx/community/3rd-party-1844355.html) ( des extension pour javafx )
 
 
 
