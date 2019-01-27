@@ -1,7 +1,6 @@
 
+<img align="center"  src="https://i.imgur.com/3ZQGxXa.jpg">
 
-![Image of Freelancer](https://i.imgur.com/3ZQGxXa.jpg)
-
-#### Looking at Freelancing from a different perspective...
+<h1 style#### Looking at Freelancing from a different perspective...
 
 
