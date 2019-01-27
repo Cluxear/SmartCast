@@ -30,13 +30,17 @@ dependencies {
     // This dependency is found on compile classpath of this component and consumers.
     implementation 'com.google.guava:guava:26.0-jre'
     implementation 'org.controlsfx:controlsfx:8.0.1'
-    // Use JUnit test framework
-    testImplementation 'junit:junit:4.12'
+   
+    compile group: 'org.kordamp.ikonli', name: 'ikonli-core', version: '1.9.0'
     compile 'io.datafx:datafx:8.0.1'
     compile 'io.datafx:flow:8.0.1'
     compile 'de.jensd:fontawesomefx-fontawesome:4.7.0-5'
     compile 'com.jfoenix:jfoenix:8.0.8'
     compile group: 'org.jfxtras', name: 'jfxtras-controls', version: '8.0-r3'
+    compile group: 'org.kordamp.ikonli', name: 'ikonli-javafx', version: '1.9.0'
+    compile group: 'org.kordamp.ikonli', name: 'ikonli-material-pack', version: '1.9.0'
+    // Use JUnit test framework
+    testImplementation 'junit:junit:4.12'
 
 }
 
