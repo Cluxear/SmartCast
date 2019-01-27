@@ -18,14 +18,13 @@
 
 [Link to JavaFX Third Party](https://www.oracle.com/technetwork/java/javafx/community/3rd-party-1844355.html) ( des extension pour javafx )
 
-
+</div>
 
 ***
 
 <h4>
 To quote JFK: 
-</h4>
-</div>
+
 >> We are not doing these things, because they are easy
 >> but because they are hard; 
 
