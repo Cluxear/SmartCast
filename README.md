@@ -1,6 +1,7 @@
+<p align="center">
+  <img  "https://i.imgur.com/3ZQGxXa.jpg">
+</p>
 
-<img align="center"  src="https://i.imgur.com/3ZQGxXa.jpg">
-
-<h1 style#### Looking at Freelancing from a different perspective...
+#### Looking at Freelancing from a different perspective...
 
 
