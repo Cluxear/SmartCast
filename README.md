@@ -10,7 +10,7 @@
 
 [Link to The Trello Private Group](https://trello.com/fearless48) 
 
-[Link to colorlib](https://colorlib.com/)  ( Pour le template )
+[Link to colorlib](https://colorlib.com/) 
 
 [Link to Oracle JavaFX] (https://docs.oracle.com/javase/8/javafx/get-started-tutorial/index.html) 
 
