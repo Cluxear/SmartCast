@@ -18,15 +18,18 @@
 
 [Link to JavaFX Third Party](https://www.oracle.com/technetwork/java/javafx/community/3rd-party-1844355.html) ( des extension pour javafx )
 
+[link to gradle Build tool](https://gradle.org/) :Pour ceux qui le connaisse pas je vaix le presenter fil meeting ( or check Google)
 </div>
 
 ***
 
-<h4>
+<h4 align=center>
 To quote JFK: 
-
->> We are not doing these things, because they are easy
+</h4>
+>> We are not doing these things because they are easy,
 >> but because they are hard; 
+
+
 
 
 
