@@ -11,3 +11,9 @@ build
 /src/main/java/esprit/smartcast/controller/View1Controller.java
 /src/main/java/esprit/smartcast/controller/View2Controller.java
 /src/main/java/esprit/smartcast/controller/UserSubMenuController.java
+/src/main/java/SmartCast/controller/SubMenuController.java
+/src/main/java/SmartCast/controller/UserSubMenuController.java
+/src/main/java/SmartCast/controller/View1Controller.java
+/src/main/java/SmartCast/controller/HomeController.java
+/src/main/java/SmartCast/controller/View2Controller.java
+/src/main/java/SmartCast/controller/View3Controller.java

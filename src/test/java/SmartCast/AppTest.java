@@ -3,6 +3,7 @@
  */
 package SmartCast;
 
+import smartcast.main.App;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
