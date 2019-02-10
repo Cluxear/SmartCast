@@ -5,3 +5,9 @@
 build
 #debug specific
 *.log
+/src/main/java/esprit/smartcast/controller/HomeController.java
+/src/main/java/esprit/smartcast/controller/View3Controller.java
+/src/main/java/esprit/smartcast/controller/SubMenuController.java
+/src/main/java/esprit/smartcast/controller/View1Controller.java
+/src/main/java/esprit/smartcast/controller/View2Controller.java
+/src/main/java/esprit/smartcast/controller/UserSubMenuController.java

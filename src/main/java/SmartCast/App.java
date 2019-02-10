@@ -3,9 +3,9 @@
  */
 package SmartCast;
 
+import esprit.smartcast.controller.HomeController;
+import io.datafx.controller.flow.Flow;
 import javafx.application.Application;
-import javafx.scene.Scene;
-import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
 public class App extends Application {
@@ -13,13 +13,9 @@ public class App extends Application {
 	public static void main(String[] args) {
 		launch(args);
 	}
-	@Override
-	public void start(Stage primaryStage) throws Exception {
-		StackPane pane = new StackPane();
-		Scene scene = new Scene(pane);
-		primaryStage.setTitle("Hello App");
-		primaryStage.setScene(scene);
-		primaryStage.show();
-	}
-
+	 @Override
+    public void start(Stage primaryStage) throws Exception {
+        new Flow(HomeController.class).startInStage(primaryStage);
+    }
 }
+

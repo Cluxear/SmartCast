@@ -30,7 +30,6 @@ dependencies {
     // This dependency is found on compile classpath of this component and consumers.
     implementation 'com.google.guava:guava:26.0-jre'
     implementation 'org.controlsfx:controlsfx:8.0.1'
-   
     compile group: 'org.kordamp.ikonli', name: 'ikonli-core', version: '1.9.0'
     compile 'io.datafx:datafx:8.0.1'
     compile 'io.datafx:flow:8.0.1'
@@ -39,9 +38,16 @@ dependencies {
     compile group: 'org.jfxtras', name: 'jfxtras-controls', version: '8.0-r3'
     compile group: 'org.kordamp.ikonli', name: 'ikonli-javafx', version: '1.9.0'
     compile group: 'org.kordamp.ikonli', name: 'ikonli-material-pack', version: '1.9.0'
+    compile group: 'org.kordamp.ikonli', name: 'ikonli-materialdesign-pack', version: '1.9.0'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.15'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.11.1'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.11.1'
+
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
-
+    testCompile group: 'org.testfx', name: 'testfx-core', version: '4.0.15-alpha'
+    testCompile group: 'org.testfx', name: 'testfx-junit', version: '4.0.15-alpha'
+    
 }
 
 // Define the main class for the application
