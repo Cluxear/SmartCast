@@ -24,7 +24,9 @@ repositories {
     mavenCentral() 
     mavenLocal()
     maven { url "https://mvnrepository.com/artifact" }
+    maven { url = 'http://maven.teamdev.com/repository/products' }
 }
+
 
 dependencies {
     // This dependency is found on compile classpath of this component and consumers.
@@ -42,13 +44,19 @@ dependencies {
     compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.15'
     compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.11.1'
     compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.11.1'
-
+    compile fileTree(dir: 'gradleLocalLibs', include: '*.jar')
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
+	// https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox
+    compile group: 'org.apache.pdfbox', name: 'pdfbox', version: '2.0.1'
+
     testCompile group: 'org.testfx', name: 'testfx-core', version: '4.0.15-alpha'
     testCompile group: 'org.testfx', name: 'testfx-junit', version: '4.0.15-alpha'
     
+    
 }
+  
+
 
 // Define the main class for the application
 mainClassName = 'SmartCast.App'

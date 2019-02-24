@@ -5,29 +5,45 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/SmartCast/src/main/java/SmartCast/App.java</file>
-        <file>file:/C:/SmartCast/src/main/java/UserSubMenuController.java</file>
-        <file>file:/C:/SmartCast/src/main/java/esprit/smartcast/controller/HomeController.java</file>
-        <file>file:/C:/SmartCast/src/main/java/esprit/smartcast/controller/UserSubMenuController.java</file>
-        <file>file:/C:/SmartCast/src/main/resources/styles/usersubmenufxml.css</file>
-        <file>file:/C:/SmartCast/src/main/java/esprit/smartcast/controller/SubMenuController.java</file>
-        <file>file:/C:/SmartCast/src/main/resources/fxml/UserSubMenuFXML.fxml</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/Content.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/Options.java</file>
+        <file>file:/C:/SmartCast/src/main/resources/fxml/AddTest.fxml</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/services/IService.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/services/ServiceImpl.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/main/App.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/Test.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/services/TestServices.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/QCMContent.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/Freelancer.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/database/DatabaseHandler.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/ui/AddTestFXMLController.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/ExamContent.java</file>
       </group>
     </open-files>
     <editor-bookmarks lastBookmarkId="0" xmlns="http://www.netbeans.org/ns/editor-bookmarks/2"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/SmartCast/src/main/java/esprit/smartcast/controller/View3Controller.java</file>
-        <file>file:/C:/SmartCast/src/main/resources/fxml/Home.fxml</file>
-        <file>file:/C:/SmartCast/src/main/java/SmartCast/App.java</file>
-        <file>file:/C:/SmartCast/src/main/java/esprit/smartcast/controller/View2Controller.java</file>
-        <file>file:/C:/SmartCast/src/main/resources/fxml/View1.fxml</file>
-        <file>file:/C:/SmartCast/src/main/java/esprit/smartcast/controller/HomeController.java</file>
-        <file>file:/C:/SmartCast/src/main/java/esprit/smartcast/controller/UserSubMenuController.java</file>
-        <file>file:/C:/SmartCast/src/main/resources/fxml/View2.fxml</file>
-        <file>file:/C:/SmartCast/src/main/java/esprit/smartcast/controller/View1Controller.java</file>
-        <file>file:/C:/SmartCast/src/main/resources/fxml/FreelancerProfile.fxml</file>
-        <file>file:/C:/SmartCast/src/main/resources/fxml/View3.fxml</file>
+        <file>file:/C:/SmartCast/src/test/java/SmartCast/AppTest.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/Content.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/Options.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/controller/SubMenuController.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/services/SmartCastEnums.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/controller/UserSubMenuController.java</file>
+        <file>file:/C:/SmartCast/src/main/resources/fxml/AddTest.fxml</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/controller/HomeController.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/services/IService.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/services/ServiceImpl.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/main/App.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/User.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/Test.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/services/TestServices.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/controller/View1Controller.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/QCMContent.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/database/DatabaseHandler.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/Question.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/controller/View3Controller.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/ui/AddTestFXMLController.java</file>
+        <file>file:/C:/SmartCast/src/main/java/SmartCast/model/ExamContent.java</file>
       </group>
     </open-files>
   </auxiliary>

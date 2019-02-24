@@ -30,7 +30,7 @@ public final class DatabaseHandler {
     private static final String password = "waloud007";
     private static Connection conn = null;
     private static Statement stmt = null;
-    private static final String driver = "com.mysql.jdbc.Driver";
+    private static final String driver = "com.mysql.cj.jdbc.Driver";
     private static DatabaseHandler handler;
 
     static {
